@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **full stack web development**. Here's my beginner web dev portfolio:
 
-     [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bhavyaj-portfolio.netlify.app/)
+     [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=flat-square&logo=ko-fi&logoColor=white&color=blueviolet)](https://bhavyaj-portfolio.netlify.app/)
 
 - 📌 I hope to contribute towards making the world a better place through my work and voice!
 
