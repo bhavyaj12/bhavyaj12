@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋, I'm Bhavya
+## Hi there 👋🏻, I'm Bhavya
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavyaj12&label=Profile%20views&color=blueviolet&style=flat" alt="bhavyaj12" /> </p>
 <p><a href="https://twitter.com/bhavzlearn" target="blank"><img src="https://img.shields.io/twitter/follow/bhavzlearn?logo=twitter&color=0e75b6&style=flat-square&label=Follow" alt="bhavzlearn" /></a> </p>
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 📌 I hope to contribute towards making the world a better place through my work and voice!
 
 - 📫 I immensely enjoy learning, and am highly capable of adapting myself to different technology stacks as per requirement and personal curiosity.
-- ⚡ A fun fact about me: **I've lived in about 20 states of India!**
+- ⚡ A fun fact about me: **I've lived in about 20 states of India and studied in 8 different schools!**
 - 👯 Pronouns: she/her
 
 
