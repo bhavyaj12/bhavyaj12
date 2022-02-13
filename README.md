@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋🏻, I'm Bhavya
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavyaj12&label=Profile%20views&color=blueviolet&style=flat" alt="bhavyaj12" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavyaj12&label=Profile%20views&color=blueviolet&style=flat-square" alt="bhavyaj12" /> </p>
 <p><a href="https://twitter.com/bhavzlearn" target="blank"><img src="https://img.shields.io/twitter/follow/bhavzlearn?logo=twitter&color=0e75b6&style=flat-square&label=Follow" alt="bhavzlearn" /></a> </p>
 
 - 🌱 I’m currently learning **full stack web development**. Here's my beginner web dev portfolio:
