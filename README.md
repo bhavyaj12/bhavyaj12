@@ -23,8 +23,8 @@ Here are some ideas to get you started:
      [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=flat-square&logo=ko-fi&logoColor=white&color=blueviolet)](https://bhavyaj-portfolio.netlify.app/)
 
 - 📌 I hope to contribute towards making the world a better place through my work and voice!
-
 - 📫 I immensely enjoy learning, and am highly capable of adapting myself to different technology stacks as per requirement and personal curiosity.
+- 💬 Ask me about photography, gaming, research, books, travel, movies/tv shows & skincare!
 - ⚡ A fun fact about me: **I've lived in about 20 states of India and studied in 8 different schools!**
 - 👯 Pronouns: she/her
 
