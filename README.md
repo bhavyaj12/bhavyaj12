@@ -23,7 +23,7 @@ Here are some ideas to get you started:
      [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=flat-square&logo=ko-fi&logoColor=white&color=blueviolet)](https://bhavyaj-portfolio.netlify.app/)
 
 - 📌 I hope to contribute towards making the world a better place through my work and voice!
-- 📫 I have a Bachelor of Technology degree in Information Technology and am highly capable of adapting to different technology stacks as per requirement and personal curiosity.
+- 📫 I graduated with a Bachelor of Technology degree in Information Technology in 2021 and am highly capable of adapting to different technology stacks as per requirement and personal curiosity.
 - ⚡ A fun fact about me: I've lived in about 20 states of India and studied in 8 different schools!
 - 💬 Ask me about photography, gaming, research, books, travel, movies/tv shows & skincare!
 - 👯 Pronouns: she/her
