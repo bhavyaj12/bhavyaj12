@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 📌 I hope to contribute towards making the world a better place through my work and voice!
 - 📫 I have a Bachelor of Technology degree in Information Technology and am highly capable of adapting myself to different technology stacks as per requirement and personal curiosity.
-- ⚡ A fun fact about me: **I've lived in about 20 states of India and studied in 8 different schools!**
+- ⚡ A fun fact about me: I've lived in about 20 states of India and studied in 8 different schools!
 - 💬 Ask me about photography, gaming, research, books, travel, movies/tv shows & skincare!
 - 👯 Pronouns: she/her
 
