@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavyaj12&label=Profile%20views&color=blueviolet&style=flat-square" alt="bhavyaj12" /> </p>
 <p><a href="https://twitter.com/bhavzlearn" target="blank"><img src="https://img.shields.io/twitter/follow/bhavzlearn?logo=twitter&color=blueviolet&style=flat-square&label=Follow" alt="bhavzlearn" /></a> </p>
 
-- 🌱 I’m currently learning **full stack web development**. Here's my beginner web dev portfolio:
+- 🌱 I’m currently learning **web development**. Here's my beginner portfolio:
 
      [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=flat-square&logo=ko-fi&logoColor=white&color=blueviolet)](https://bhavyaj-portfolio.netlify.app/)
 
@@ -38,11 +38,9 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://twitter.com/bhavzlearn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhavzlearn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bhavya-joshi-438178184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhavya-joshi-438178184/" height="30" width="40" /></a>
-<a href="https://dev.to/bhavzlearn">
-
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" align="left"/>
-
-</a> 
+<a href="https://bhavzlearn.hashnode.dev/" target="blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" align="center"/></a> 
+<a href="https://dev.to/bhavzlearn" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" align="center"/></a> 
+     
 </p>
 
 <br>
