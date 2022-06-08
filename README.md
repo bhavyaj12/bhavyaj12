@@ -67,13 +67,13 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://twitter.com/bhavzlearn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhavzlearn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bhavya-joshi-438178184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhavya-joshi-438178184/" height="30" width="40" /></a>
-<a href="https://bhavzlearn.hashnode.dev/" target="blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" align="center"/></a> 
-<a href="https://dev.to/bhavzlearn" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" align="center"/></a> 
 </p>
 
 
 <h2 align="left">Read my Blogs:</h2>
 <p align="left">
+     <a href="https://bhavzlearn.hashnode.dev/" target="blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" align="center"/></a> 
+<a href="https://dev.to/bhavzlearn" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" align="center"/></a> 
      <ul>
           <li><a href="https://dev.to/bhavzlearn/demystifying-useref-and-usememo-in-react-4jcl" target="blank">Demystifying useRef and useMemo in React</a></li>
           <li><a href="https://bhavzlearn.hashnode.dev/your-complete-guide-to-css-specificity" target="blank">Your Complete Guide to CSS Specificity</a></li>
