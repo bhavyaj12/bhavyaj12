@@ -18,14 +18,12 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavyaj12&label=Profile%20views&color=blueviolet&style=flat-square" alt="bhavyaj12" /> </p>
 <p><a href="https://twitter.com/bhavzlearn" target="blank"><img src="https://img.shields.io/twitter/follow/bhavzlearn?logo=twitter&color=blueviolet&style=flat-square&label=Follow" alt="bhavzlearn" /></a> </p>
 
-- 🌱 I’m currently learning **web development**. Here's my beginner portfolio:
-
-     [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=flat-square&logo=ko-fi&logoColor=white&color=blueviolet)](https://bhavyaj-portfolio.netlify.app/)
-
+- 🌱 I’m currently learning **web development**. You can find all my work on Github, or here:  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=flat-square&logo=ko-fi&logoColor=white&color=blueviolet)](https://peerlist.io/bhavyajoshi)
+- 📫 I'm currently looking for job opportunities in Software/Web Dev/Frontend roles with 0-2 years of experience, can join immediately.
 - 📌 I hope to contribute towards making the world a better place through my work and voice!
-- 📫 I graduated with a degree of *Bachelor of Technology in Information Technology* in 2021, which has made me highly capable of adapting to different technology stacks as per requirement and personal curiosity. Primarily I've dabbled in ML-AI (Computer Vision) and currently, Web Development.
+- 😄 I graduated with a degree of *Bachelor of Technology in Information Technology* in 2021, which has made me highly capable of adapting to different technology stacks as per requirement and personal curiosity. During my time in college, I primarily explored ML-AI (Computer Vision) and currently, Web Development.
 - ⚡ A fun fact about me: I've lived in about 20 states of India and studied in 8 different schools!
-- 💬 Ask me about photography, gaming, research, books, travel, movies/tv-shows & skincare!
+- 💬 Ask me about photography, gaming, movies/tv-shows, travel, books, research & skincare!
 - 👯 Pronouns: she/her
 
 
