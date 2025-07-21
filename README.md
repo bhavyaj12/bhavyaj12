@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavyaj12&label=Profile%20views&color=blueviolet&style=flat-square" alt="bhavyaj12" /> </p>
 
 - 🌱 I’m currently learning **web development**. You can find all my work on Github, or here:  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=flat-square&logo=ko-fi&logoColor=white&color=blueviolet)](https://peerlist.io/bhavyajoshi)
-- 📫 I'm have 3+ years of full time Fullstack experience - having worked with Go, React.js, Angular and TypeScript
+- 📫 I have 3+ years of full time Fullstack experience - having worked with Go, React.js, Angular and TypeScript
 - 📌 I hope to contribute towards making the world a better place through my work and voice!
 - 😄 I graduated with a degree of *Bachelor of Technology in Information Technology* in 2021, which has made me highly capable of adapting to different technology stacks as per requirement and personal curiosity. During my time in college, I primarily explored ML-AI (Computer Vision) and currently, Web Development.
 - ⚡ A fun fact about me: I've lived in about 20 states of India and studied in 8 different schools!
