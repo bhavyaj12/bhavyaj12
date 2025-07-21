@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 ## Hi there 👋🏻, I'm Bhavya
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavyaj12&label=Profile%20views&color=blueviolet&style=flat-square" alt="bhavyaj12" /> </p>
-<p><a href="https://twitter.com/bhavzlearn" target="blank"><img src="https://img.shields.io/twitter/follow/bhavzlearn?logo=twitter&color=blueviolet&style=flat-square&label=Follow" alt="bhavzlearn" /></a> </p>
 
 - 🌱 I’m currently learning **web development**. You can find all my work on Github, or here:  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=flat-square&logo=ko-fi&logoColor=white&color=blueviolet)](https://peerlist.io/bhavyajoshi)
 - 📫 I'm have 3+ years of full time Fullstack experience - having worked with Go, React.js, Angular and TypeScript
@@ -83,6 +82,5 @@ Here are some ideas to get you started:
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavyaj12&show_icons=true&locale=en&count_private=true&theme=tokyonight&hide=contribs" alt="bhavyaj12" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyaj12&theme=tokyonight" alt="bhavyaj12" /></p>
 
 
